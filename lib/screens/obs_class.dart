@@ -5,6 +5,7 @@ import 'package:getx_demo/modals/student.dart';
 
 import '../translations/messages.dart';
 
+// ignore: must_be_immutable
 class ObsClass extends StatelessWidget {
   ObsClass({Key? key}) : super(key: key);
 

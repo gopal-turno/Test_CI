@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:getx_demo/screens/home.dart';
 import 'package:getx_demo/screens/obs_class.dart';
-import 'package:getx_demo/screens/state_management.dart';
 
 void main() {
   runApp(ObsClass());
